@@ -1,0 +1,52 @@
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Sistema de inventarios y prestamos.exe
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Sistema de inventarios y prestamos.exe.config
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CapaDatos.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CapaNegocio.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\EntityFramework.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\FlashControlV71.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\stdole.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CapaDatos.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\CapaNegocio.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\EntityFramework.xml
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormAcercaDe.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormCristalReporteEstadoEquipo.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.SubFormEquiposParaPrestamo.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormLogin.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.Form_MenuPrincipal.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormRegistrarPrestamoDevolucion.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormRegistrarUsuarios.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormReportes.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.Properties.Resources.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.FormRegistrarEquipo.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.SubFormPrestamos.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.SubFormRegistrarNuevaMarca.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.SubFormRegistrarNuevoModelo.resources
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\SistemaDeInventariosJoel.csproj.CopyComplete
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\Sistema de inventarios y prestamos.exe
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\obj\Debug\Sistema de inventarios y prestamos.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Sistema de inventarios y prestamos.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\SistemaDeInventariosJoel\bin\Debug\Resources\PantallaOrdenador.png
