@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Pc\source\repos\SistemaDeInventariosJoel\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
